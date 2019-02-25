@@ -1,2 +1,4 @@
-# Box_office_prediction
-Kaggle Competition--Box Office Prediction
+# Walmart recruitment challenge
+https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data
+
+This should be fun
